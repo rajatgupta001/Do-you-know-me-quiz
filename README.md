@@ -1,0 +1,1 @@
+This app is made for my friends to identify who knows me better.
